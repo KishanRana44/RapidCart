@@ -9,7 +9,7 @@ Customers can search for items, place them in a cart, complete secure payments, 
 quick confirmation. Customers can track their orders live, and delivery usually takes 20–30
 minutes if the store is within 8–10 km of their location. The system’s backend helps sellers
 manage stock, prices, and orders easily. It also works with delivery services to improve
-routes and reduce delays.<br><br>
+routes and reduce delays.<br>
 This platform helps customers with convenience and speed, helps sellers run their business
 more smoothly, and helps delivery partners save time with better routes. It is made with
 modern web technologies, works on any device, has secure payment options, and keeps data
